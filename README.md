@@ -8,5 +8,5 @@ Ein Danke an das ganze Team für die tolle zusammenarbeit.
 
 ---
 # Quellen:
-bsp: 
-<1A> - <website> - <time> - <author>
+bsp: <br>
+1A - website - time - author
