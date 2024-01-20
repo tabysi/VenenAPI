@@ -6,5 +6,5 @@ Danke an *[ZENSIERT]* für die zusammen Arbeit und an das ganze *[ZENSIERT]* Tea
 
 ---
 # Quellen:
-- [A1] https://trusted-studios/hcs/krankheiten/psychische/depressionen
-- [A2] https://trusted-studios/hcs/krankheiten/physische/
+- [A1] https://trusted-studios.eu/hcs/krankheiten/psychische/depressionen
+- [A2] https://trusted-studios.eu/hcs/krankheiten/physische/
