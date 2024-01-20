@@ -1,12 +1,10 @@
 # VenenAPI
-API to interact with the Venen database. 
-
-Die API wird nächstes Jahr am 15.03.2024 veröffentlicht und Open Source sein.
+VenenAPI ist eine Datenbank um schnell und präzise alle Wichtigen Daten vom Gesundheitswesen abzurufen. Das ganze wird vom *[ZENSIERT]* Institut unterstützt und gefördert.
 
 ---
-Ein Danke an das ganze Team für die tolle zusammenarbeit.
+Danke an *[ZENSIERT]* für die zusammen Arbeit und an das ganze *[ZENSIERT]* Team.
 
 ---
 # Quellen:
-bsp: <br>
-1A - website - time - author
+- [A1] https://trusted-studios/hcs/krankheiten/psychische/depressionen
+- [A2] https://trusted-studios/hcs/krankheiten/physische/
