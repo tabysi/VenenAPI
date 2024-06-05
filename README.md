@@ -1,2 +1,3 @@
-# VenenAPI
-Die Arbeit an VenenAPI wird fortgeführt!
+# VenenAPI | wird fortgesetzt...
+
+> Das Projekt "VenenAPI" ist eine Datenbank mit vielen verschiedenen Fallbeispielen und Möglichkeiten der digitalen Weiterbildung. Die Sponsoren des Projektes verbleiben Privat!
